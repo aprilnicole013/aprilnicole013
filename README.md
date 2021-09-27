@@ -1,7 +1,7 @@
 - 👋 Hello there, I'm April.
-- 👀 I’m interested in software development and product management.
-- 🌱 I have some knowledge of HTML, CSS, and Bootstrap 4 with goals to learn Fullstack Javascript.
-- 💞️ As I grow as a developer, I’m hoping to collaborate on websites and applications to improve real world problems.
+- 👀 I am interested in software development and product management.
+- 🌱 I am currently learning Fullstack Javascript with knowledge of JavaScript, React, and Node.
+- 💞️ As I grow as a developer, I’m hoping to collaborate on websites and applications to improve user experiences.
 
 Enjoying the journey as I go 🐾
 
